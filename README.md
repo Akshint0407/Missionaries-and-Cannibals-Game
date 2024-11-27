@@ -25,16 +25,16 @@ This repository contains an interactive Python game based on the classic **Missi
    ```bash
    git clone https://github.com/Akshint0407/Game-with-emojis.git
    cd Game-with-emojis
-                     OR
-2. Clone this repository:
+
+2. OR Clone this repository:
    ```bash
    git clone https://github.com/Akshint0407/Game-without-emojis.git
    cd Game-without-emojis
-3. Run the Python script:
+3. Run this Python script:
    ```bash
     python Game-with-emojis.py
-                     OR
-4. Run the Python script:
+                     
+4. OR Run this Python script:
    ```bash
     python Game-without-emojis.py
    

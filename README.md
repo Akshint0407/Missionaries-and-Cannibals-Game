@@ -23,13 +23,21 @@ This repository contains an interactive Python game based on the classic **Missi
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Missionaries-and-Cannibals-Game.git
-   cd Missionaries-and-Cannibals-Game
-
-2. Run the Python script:
+   git clone https://github.com/Akshint0407/Game-with-emojis.git
+   cd Game-with-emojis
+                     OR
+2. Clone this repository:
    ```bash
-    python missionaries_and_cannibals.py
-
+   git clone https://github.com/Akshint0407/Game-without-emojis.git
+   cd Game-without-emojis
+3. Run the Python script:
+   ```bash
+    python Game-with-emojis.py
+                     OR
+4. Run the Python script:
+   ```bash
+    python Game-without-emojis.py
+   
 ## 🔧 Requirements
 - Python 3.x installed on your system.
 

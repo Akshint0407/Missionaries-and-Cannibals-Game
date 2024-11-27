@@ -1,24 +1,25 @@
-# Missionaries and Cannibals Game Solver
+# Missionaries and Cannibals Game
 
-This repository contains a Python implementation of the **Missionaries and Cannibals Problem**, a classic puzzle that challenges players to transport missionaries and cannibals across a river without violating specific rules. 
+This repository contains an interactive Python game based on the classic **Missionaries and Cannibals Problem**. The objective is to transport missionaries and cannibals across a river without violating specific rules, all while enjoying an engaging gameplay experience.
 
 ---
 
 ## 🚀 Features
-- Solves the Missionaries and Cannibals puzzle step-by-step.
-- Ensures no cannibals outnumber missionaries on either side of the river.
-- Customizable logic for extended versions of the puzzle.
+- Playable game where users solve the puzzle by making strategic moves.
+- Interactive interface with prompts for user inputs.
+- Ensures game rules are followed, preventing invalid moves.
 
 ---
 
-## 📜 Problem Statement
-Three missionaries and three cannibals must cross a river using a boat. The boat can carry a maximum of two people at a time. At no point should the number of cannibals exceed the number of missionaries on either side of the river.
-
-**Goal:** Safely transport all missionaries and cannibals to the other side of the river.
+## 📜 Game Rules
+1. There are three missionaries and three cannibals on one side of the river.
+2. A boat is available that can carry a maximum of two people at a time.
+3. At no point should the number of cannibals exceed the number of missionaries on either side of the river (if missionaries are present).
+4. The goal is to safely transport all missionaries and cannibals to the other side of the river.
 
 ---
 
-## 🖥️ Usage
+## 🖥️ How to Play
 
 1. Clone this repository:
    ```bash

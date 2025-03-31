@@ -24,25 +24,36 @@ This repository contains an interactive Python game based on the classic **Missi
 1. Clone this repository:
    ```bash
    git clone https://github.com/Akshint0407/Game-with-emojis.git
-   cd Game-with-emojis
-
-2. OR Clone this repository:
+   ```
    ```bash
-   git clone https://github.com/Akshint0407/Game-without-emojis.git
-   cd Game-without-emojis
-3. Run this Python script:
+   cd Game-with-emojis
+   ```
+   
+2. Run this Python script:
    ```bash
     python Game-with-emojis.py
+   ```
+
+      ### OR 
+
+3. Clone this repository:
+   ```bash
+   git clone https://github.com/Akshint0407/Game-without-emojis.git
+   ```
+   ```bash
+   cd Game-without-emojis
+   ```
                      
-4. OR Run this Python script:
+4. Run this Python script:
    ```bash
     python Game-without-emojis.py
+   ```
    
 ## 🔧 Requirements
 - Python 3.x installed on your system.
 
 ## 📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 🛡️ Acknowledgements
 Inspired by classic logic puzzles.
